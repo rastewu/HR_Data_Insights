@@ -15,7 +15,7 @@
 This project aims to unlock actionable insights from an HR dataset through comprehensive exploratory data analysis (EDA) and visualization techniques. Utilizing a dataset that encompasses a wide range of employee attributes, including demographics, job roles, performance metrics, and attrition rates, the analysis seeks to identify patterns and correlations that influence employee satisfaction, engagement, and retention. The insights generated from this project are intended to support HR strategies and decision-making processes, enhancing workforce management and organizational effectiveness.
 
 ### Data Sources
-This analysis comprises a dataset related to the COVID-19 pandemic:[Link to Dataset](https://ourworldindata.org/covid-deaths)
+This analysis comprises a dataset related to the HR Department of a ficticious company:[Link to Dataset](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit#gid=2089618187)
 
 ### Tools
 - Excel -  Data Cleaning
