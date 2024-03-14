@@ -18,8 +18,9 @@ This project aims to unlock actionable insights from an HR dataset through compr
 This analysis comprises a dataset related to the HR Department of a ficticious company:[Link to Dataset](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit#gid=2089618187)
 
 ### Tools
-- Excel -  Data Cleaning
-- Tableau 2024.1 - Data Analysis & Visualization
+- Excel - Data Cleaning
+- Tableau Desktop 2024.1 - For creating interactive data visualizations.
+- Tableau Public- For publishing and sharing dashboards online.
 
 
 ### Exploratory Data Analysis
