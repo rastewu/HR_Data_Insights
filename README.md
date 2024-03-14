@@ -77,7 +77,7 @@ Based on the analysis, we recommend the following actions
 
 
 ### References
-1. This project was inspired by "Data Tutorials", a  Youtube Tableau content creator. 
+1. This project was inspired by "Data Tutorials", a  Youtube Tableau content creator, who also provided access to the dataset.
 
 
 
