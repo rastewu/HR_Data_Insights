@@ -49,7 +49,7 @@ The Sales and R&D departments were identified as having notably higher attrition
 *Dominance of Mid-Career Employees*: 
 The workforce primarily consists of mid-career employees, aged between 30 to 45, indicating a mature and experienced workforce.
 
-Retention of Older Employees: Older employees (45+) represent a smaller proportion of the workforce, highlighting potential areas for improving retention or succession planning strategies.
+*Retention of Older Employees*: Older employees (45+) represent a smaller proportion of the workforce, highlighting potential areas for improving retention or succession planning strategies.
 
 **3. Job Satisfaction Ratings**
 *Variable Satisfaction Across Departments:* Job satisfaction ratings vary significantly across departments, with higher satisfaction found within the Sales Executive job role.  
@@ -61,9 +61,9 @@ Life Sciences and the Medical fields show higher attrition, , which could reflec
 **5. Attrition Rate by Gender by Age**
 *Gender Disparity in mid-career age groups:* The data shows that younger male employees (25-34 years) have a higher attrition rate compared to their female counterparts, which could be influenced by career progression opportunities or job market dynamics.
 
-Convergence in earlier career years: Attrition rates between genders tend to converge in the "Under 25" age group, possibly reflecting stabilizing factors such as work-life balance priorities or job satisfaction.
+*Convergence in earlier career years*: Attrition rates between genders tend to converge in the "Under 25" age group, possibly reflecting stabilizing factors such as work-life balance priorities or job satisfaction.
 
-Senior Age Group Variations: In the 55+ age group, attrition rates is higher in Males than in females, potentially due to different career lifecycle stages or organizational roles.
+*Senior Age Group Variations*: In the 55+ age group, attrition rates is higher in Males than in females, potentially due to different career lifecycle stages or organizational roles.
 
 
 Conclusion
