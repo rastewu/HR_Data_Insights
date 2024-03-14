@@ -1,4 +1,5 @@
 # HR Data Insightd - Exploratory Data Analysis and Visualization
+![HR_Dashboard](https://github.com/rastewu/HR_Data_Insights/assets/157243480/7abd92ed-59eb-4b8e-97b0-d1c12c84cbe4)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
