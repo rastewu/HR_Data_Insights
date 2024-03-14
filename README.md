@@ -1,4 +1,4 @@
-# HR Data Insightd - Exploratory Data Analysis and Visualization
+# HR Data Insight - Exploratory Data Analysis and Visualization
 ![HR_Dashboard](https://github.com/rastewu/HR_Data_Insights/assets/157243480/7abd92ed-59eb-4b8e-97b0-d1c12c84cbe4)
 
 ## Table of Contents
@@ -42,7 +42,7 @@ During the exploration of the HR dataset, a significant focus was placed on unde
 Based on the analysis of a this HR dataset, here's a summarized overview of insights and findings across the specified topics:
 
 **1. Attrition by Department**
-*High Attrition in Sales and R&D*: 
+<u>High Attrition in Sales and R&D</u>:
 The Sales and R&D departments were identified as having notably higher attrition rates compared to the HR department. This could be linked to job pressure and the competitive market for technical skills.
 
 **2. Number of Employees by Age Group**
